@@ -4,7 +4,7 @@
 
 ## Demo
 
-→ [观看完整演示（2.5 分钟）](https://github.com/SashaQVQ/customer_service/releases)
+→ [观看完整演示（2.5 分钟）](https://1drv.ms/v/c/d9057e2404906237/IQDjmliFK06ER4a1nXwg3DQ7AS62edEkvL49IdrCfDwMlqw?e=mXWACw)
 
 ## 项目背景
 
